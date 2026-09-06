@@ -62,8 +62,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/sahilchoudhary2006/sahilchoudhary2006/trophy-output/streak.svg?v=1" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/sahilchoudhary2006/sahilchoudhary2006/trophy-output/trophy.svg?v=1" height="150" alt="trophy graph"  />
+  <img src="https://github.com/sahilchoudhary2006/sahilchoudhary2006/blob/trophy-output/streak.svg?raw=true" height="150" alt="streak graph"  />
+  <img src="https://github.com/sahilchoudhary2006/sahilchoudhary2006/blob/trophy-output/trophy.svg?raw=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
