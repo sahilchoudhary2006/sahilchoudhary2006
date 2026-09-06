@@ -19,8 +19,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="60" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="60" alt="npm logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
@@ -30,8 +29,6 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="60" alt="githubactions logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img width="12" />
