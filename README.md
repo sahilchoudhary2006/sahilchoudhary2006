@@ -65,8 +65,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/sahilchoudhary2006/sahilchoudhary2006/trophy-output/streak.svg" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/sahilchoudhary2006/sahilchoudhary2006/trophy-output/trophy.svg?theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilchoudhary2006&theme=dark" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilchoudhary2006&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
