@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Et voilà! I'm SAHIL CHOUDHARY</h1>
+<h1 data-importer="text" align="center">Hello! I'm SAHIL CHOUDHARY</h1>
 
 <h3 align="center">I am a B.Tech student in Chemical Science and Technology at IIT Patna (2025-Present) with a strong passion for software engineering. My primary focus is backend development, building real-world web applications and scalable systems, while also exploring AI and modern technologies.</h3>
 
@@ -65,8 +65,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/sahilchoudhary2006/sahilchoudhary2006/trophy-output/streak.svg" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/sahilchoudhary2006/sahilchoudhary2006/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/sahilchoudhary2006/sahilchoudhary2006/trophy-output/streak.svg?v=1" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/sahilchoudhary2006/sahilchoudhary2006/trophy-output/trophy.svg?v=1" height="150" alt="trophy graph"  />
 </div>
 
 ###
